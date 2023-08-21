@@ -1,0 +1,26 @@
+{
+  "name": "react_new_versions",
+  "version": "1.0.0",
+  "description": "this is namsthe react by phani",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phani7/react-learnings.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs"
+  ],
+  "author": "phani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phani7/react-learnings/issues"
+  },
+  "homepage": "https://github.com/phani7/react-learnings#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
